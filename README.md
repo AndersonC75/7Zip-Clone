@@ -3,7 +3,7 @@
 
 Uma aplicação simples com interface gráfica (GUI) desenvolvida em Python para descompactar arquivos no formato `.7z`. Utiliza a biblioteca `tkinter` para a interface e `py7zr` para a manipulação dos arquivos compactados.
 
-![Screenshot da Aplicação](7zip-clone](https://github.com/user-attachments/assets/af9568ef-26bc-474f-9b7d-ad0881bffb40)
+7zip-clone](https://github.com/user-attachments/assets/af9568ef-26bc-474f-9b7d-ad0881bffb40
 
 ## Funcionalidades
 
